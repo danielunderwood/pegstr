@@ -396,6 +396,3 @@ module pegstr()
 	}
 }
 
-
-rotate([180,0,0]) pegstr();
-
